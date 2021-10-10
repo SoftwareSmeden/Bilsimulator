@@ -1,6 +1,6 @@
 # Bilsimulator
 
-<details open>
+<details close>
 <summary>Billede</summary>
 <br>  
   
