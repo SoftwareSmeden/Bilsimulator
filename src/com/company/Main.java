@@ -33,7 +33,7 @@ public class Main {
                              System.out.println(kommandoListe);
 
         System.out.println("\n" + "Skriv 'help' hvis du vil se kommando listen undervejs!");
-        System.out.println("\n" + "Hvis du vil starte og køre i bilen, skriv 'tænd' eller 'quit' for exit? (De to ymboler '' skal ikke skrives)");
+        System.out.println("\n" + "Hvis du vil starte og køre i bilen, skriv 'tænd' eller 'quit' for exit? (De to symboler '' skal ikke skrives)");
 
         //Her starter bruger inputs:
         Scanner chauffør = new Scanner(System.in);
